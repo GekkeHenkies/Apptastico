@@ -4,6 +4,7 @@
 User-agent: *
 Disallow:
 <<<<<<< HEAD
+<<<<<<< HEAD
 shit
 =======
 
@@ -11,3 +12,5 @@ shit
 
 nog meers hit
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 82229e4... Revert "Added all files"
