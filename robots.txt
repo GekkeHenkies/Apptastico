@@ -3,4 +3,11 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 shit
+=======
+
+
+
+nog meers hit
+>>>>>>> origin/master
