@@ -13,7 +13,3 @@
 
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
-
-
-
-YOU FILTHY HOOMANS
